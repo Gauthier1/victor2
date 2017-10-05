@@ -130,6 +130,12 @@ a:visited{color: #1a89be}
   left: 50%;
 }
 
+.img1{
+	position: absolute;
+  top: 40%;
+  left: 50%;
+	 }
+
 
 .img2{
  position: absolute;
@@ -146,14 +152,14 @@ a:visited{color: #1a89be}
 
 .img4{
  position: absolute;
-  top: 92%;
+  top: 88%;
   left: 50%;
 }
 
 
 .img5{
  position: absolute;
-  top: 88%;
+  top: 110%;
   left: 50%;
 }
 
